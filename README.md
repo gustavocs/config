@@ -1,4 +1,4 @@
-# config
+# dotfiles
 All configuration setup used by me
 
 ## .bashrc
